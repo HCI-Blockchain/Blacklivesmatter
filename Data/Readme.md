@@ -1,4 +1,5 @@
 # DATASET 1 : BLACK LIVES MATTER TWEETS
+## Due to data size, DATASET 1 is not directly uploaded on Github. Users can access the dataset by Visiting: https://drive.google.com/file/d/1Z6SfxFA_iHYdDLCaa-2IvaDFHqEUtUkg/view?usp=sharing
 | ID     | Frequency | Type                      | Description                                                                     | 
 |--------|-----------|---------------------------|---------------------------------------------------------------------------------|
 | Date   | 1 day     | datetime64[ns] YYYY-MM-DD | #Blacklivesmatter: from May 24, 2020, to Dec 31, 2020                           |  
