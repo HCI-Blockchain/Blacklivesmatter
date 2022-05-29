@@ -1,2 +1,3 @@
-# Blacklivesmatter
-This repository records the quantitative analysis and dataset for the paper "What are People Talking about in #BackLivesMatter and #StopAsianHate? Exploring and Categorizing Twitter Topics Emerged in Online Social Movements through the Latent Dirichlet Allocation Model", accepted as a full paper for publication in the AIES 2022. Research teammates include Yixuan Li, Jiayi Li and Rongqi Bei. Supervisors include Prof. Xin Tong and Prof. Luyao Zhang. 
+# What are People Talking about in \#BackLivesMatter and \#StopAsianHate? Exploring and Categorizing Twitter Topics Emerging in Online Social Movements through the Latent Dirichlet Allocation Model
+
+## Complementary Resources
