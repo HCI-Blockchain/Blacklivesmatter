@@ -7,8 +7,16 @@
 
 ![Figure 2: Blacklivesmatter: Time Series for Google Trend, Tweet Volume, and Events. The red line illustrated the relative interest on Google for the keywords "black lives matter" in the U.S, whereas the blue line represents tweet volumes, the number of tweets per day, and the red line illustrates google trend scores (Timezone: Universal Time Coordinated)](https://github.com/HCI-Blockchain/Blacklivesmatter/blob/main/figures/event_blm.png)
 
+![Figure 3: Stopasianhate: Time Series for Google Trend, Tweet Volume, and Events (spearman correlation coeffient=0.683, p-value$<$0.001)](https://github.com/HCI-Blockchain/Blacklivesmatter/blob/main/figures/event_asian.png)
 
 
+![Figure 4: Sample Dataset](https://github.com/HCI-Blockchain/Blacklivesmatter/blob/main/figures/sample_data.png)
+
+![Figure 5: Time Series for Average Tweet Length (daily)](https://github.com/HCI-Blockchain/Blacklivesmatter/blob/main/figures/tweet_len.png)
+
+![Figure 6: Overall Word Frequency Ranking](https://github.com/HCI-Blockchain/Blacklivesmatter/blob/main/figures/overall_rank.png)
+
+![Figure 7: Time Series of Google Trend and Tweet Volume for #BlackLivesMatter and #StopAsianHate](https://github.com/HCI-Blockchain/Blacklivesmatter/blob/main/figures/event_both.png)
 
 
 ## Table of Contents
