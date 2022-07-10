@@ -2,6 +2,8 @@
 
 **Paper Title**: What are People Talking about in \#BackLivesMatter and \#StopAsianHate? Exploring and Categorizing Twitter Topics Emerging in Online Social Movements through the Latent Dirichlet Allocation Model
 
+Check out the working paper version on arXiv: https://arxiv.org/abs/2205.14725
+
 
 **Figure 1**: Common topics between BlackLivesMatter and StopAsianHate, and unique topics in the two movements
 ![Figure 1: Common topics between BlackLivesMatter and StopAsianHate, and unique topics in the two movements](https://github.com/HCI-Blockchain/Blacklivesmatter/blob/main/ACMAIES_BLM.png)
